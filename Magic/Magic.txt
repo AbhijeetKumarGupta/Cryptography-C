@@ -1,0 +1,11 @@
+***********************
+*      FUN TRICK      *
+***********************
+
+Follow the following steps and see the magic:-
+
+1] Encrypt any text usin any one of the four keys.
+2] Decrypt it using any of the remaining three keys but dont use the same key you used
+for encryption.
+3] Now again encrypt the generated nonsense using any one of the remaining two keys.
+4] Finally decrypt it using last remaining key and see the magic work.
